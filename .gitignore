@@ -1,0 +1,8 @@
+node_modules
+.vscode
+models.png
+models.png:Zone.Identifier
+prettier.config.js
+yarn-error.log
+.eslintrc.json
+.eslintignore
