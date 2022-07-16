@@ -10,6 +10,7 @@ export class CreateUsers1654462115940 implements MigrationInterface {
             {
               name: "id",
               type: "uuid",
+              isPrimary: true,
             },
             {
               name: "name",
